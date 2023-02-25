@@ -1,7 +1,11 @@
+function Redirect(website) {
+  window.location = website;
+}
+
 function setup() {
-  createCanvas(400, 400);
+  noCanvas();
 }
 
 function draw() {
-  background(220);
+  Redirect("https://woofpuppywoof.github.io/projects");
 }

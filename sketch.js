@@ -7,5 +7,5 @@ function setup() {
 }
 
 function draw() {
-  Redirect("https://woofpuppywoof.github.io/projects");
+  Redirect("https://projects.nexuslabs.repl.co");
 }
